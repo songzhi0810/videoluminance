@@ -14,9 +14,11 @@ openCV(4.1.0),numpy(1.16.2),matplotlib(3.0.3)
 -------------
  「OS X に OpenCV を Homebrew で入れて python で動画入出力をする」  
  https://qiita.com/daxanya1/items/4709ad8454760e17148c
+ 
  「動画を扱う　ー　OpenCV-Python Tutorials 1 documentation」
  http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_gui/py_video_display/py_video_display.html
  の、「カメラの映像を動画を保存する」のコードを参考にした。  
+ 
  「Python, OpenCVを用いて動画を画像へ変換する（動画から画像の切り出し）-あさの畑」  
  https://www.asanohatake.com/entry/2018/11/20/073000  
  の、「動画から画像への変換（フレームごと）」のコードを参考にした。  
